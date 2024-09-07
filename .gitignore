@@ -1,0 +1,13 @@
+# 忽略文件
+Project.uvgui.poplar
+
+# 忽略目录(包含子目录里的文件夹)
+Objects/
+.vscode/
+
+# 只忽略根目录的文件夹
+/Listings/
+
+# 通配符
+*.zip
+*.uvgui.*
